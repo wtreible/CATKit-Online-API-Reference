@@ -1,7 +1,7 @@
 # CATKit-Online API Documentation
 
 Base URL for CATKit-Online is currently located at:
-`http://www.bigdatavision.com/catapi/`
+`http://www.bigdatavision.org/catapi/`
 
 ## Current Endpoints
 
